@@ -1,9 +1,7 @@
-import React from 'react'
-import styles from './styles.module.scss'
+import React from "react";
+import styles from "./styles.module.scss";
 const Index = () => {
-  return (
-    <div>Index</div>
-  )
-}
+  return <div>Index</div>;
+};
 
-export default Index
+export default Index;

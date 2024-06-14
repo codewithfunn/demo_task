@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./styles.module.scss";
+import styles from "@/styles/tenders.module.scss";
 const Index = () => {
   return <div>Index</div>;
 };
